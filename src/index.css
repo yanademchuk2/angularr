@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> dfb1a47c5086ad1bc37f5a4635dae4878d66ff69
 :root {
   font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
   line-height: 1.5;
@@ -9,10 +13,24 @@
 
   font-synthesis: none;
   text-rendering: optimizeLegibility;
+<<<<<<< HEAD
+=======
+=======
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+>>>>>>> 6c648193be9ef98625d52e3bb251bf79562faad5
+>>>>>>> dfb1a47c5086ad1bc37f5a4635dae4878d66ff69
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> dfb1a47c5086ad1bc37f5a4635dae4878d66ff69
 a {
   font-weight: 500;
   color: #646cff;
@@ -65,4 +83,12 @@ button:focus-visible {
   button {
     background-color: #f9f9f9;
   }
+<<<<<<< HEAD
+=======
+=======
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+>>>>>>> 6c648193be9ef98625d52e3bb251bf79562faad5
+>>>>>>> dfb1a47c5086ad1bc37f5a4635dae4878d66ff69
 }
